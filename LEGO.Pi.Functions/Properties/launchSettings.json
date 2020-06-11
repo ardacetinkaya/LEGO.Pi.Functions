@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "LEGO.Pi.Functions": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31526,
+      "useSSL": false
+    }
+  }
+}
